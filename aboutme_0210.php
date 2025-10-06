@@ -42,7 +42,7 @@
 <body>
     <?php
         // Data diri
-        $nama = "Ambara Arung Kamora anjay";
+        $nama = "Ambara Arung Kamora";
         $nim = "24.62.0210";
         $kampus = "Universitas Amikom Yogyakarta";
         $prodi = "S1 Sistem Informasi";
